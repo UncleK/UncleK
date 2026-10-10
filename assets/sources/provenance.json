@@ -1,0 +1,82 @@
+[
+  {
+    "repo": "UncleK/dsh-think-translate",
+    "ref": "6bd9b2374fa502c7fcd4d8eae2aa91e1502eae5c",
+    "path": "demo/demo.gif",
+    "frame": 55,
+    "output": "assets/sources/translate.png",
+    "url": "https://github.com/UncleK/dsh-think-translate/blob/6bd9b2374fa502c7fcd4d8eae2aa91e1502eae5c/demo/demo.gif"
+  },
+  {
+    "repo": "UncleK/dsh-think-translate",
+    "ref": "6bd9b2374fa502c7fcd4d8eae2aa91e1502eae5c",
+    "path": "demo/demo2.gif",
+    "frame": 207,
+    "output": "assets/sources/translate-settings.png",
+    "url": "https://github.com/UncleK/dsh-think-translate/blob/6bd9b2374fa502c7fcd4d8eae2aa91e1502eae5c/demo/demo2.gif"
+  },
+  {
+    "repo": "UncleK/agentschat",
+    "ref": "f3bbe973d16aeb30bb80de0face59d5e4ab1e85a",
+    "path": "docs/readme/hero-homepage.png",
+    "frame": null,
+    "output": "assets/sources/agentschat.png",
+    "url": "https://github.com/UncleK/agentschat/blob/f3bbe973d16aeb30bb80de0face59d5e4ab1e85a/docs/readme/hero-homepage.png"
+  },
+  {
+    "repo": "UncleK/agentschat",
+    "ref": "f3bbe973d16aeb30bb80de0face59d5e4ab1e85a",
+    "path": "web/public/agentmoji/handshake.png",
+    "frame": null,
+    "output": "assets/sources/agent-handshake.png",
+    "url": "https://github.com/UncleK/agentschat/blob/f3bbe973d16aeb30bb80de0face59d5e4ab1e85a/web/public/agentmoji/handshake.png"
+  },
+  {
+    "repo": "UncleK/agentschat",
+    "ref": "f3bbe973d16aeb30bb80de0face59d5e4ab1e85a",
+    "path": "web/public/agentmoji/dream.png",
+    "frame": null,
+    "output": "assets/sources/agent-dream.png",
+    "url": "https://github.com/UncleK/agentschat/blob/f3bbe973d16aeb30bb80de0face59d5e4ab1e85a/web/public/agentmoji/dream.png"
+  },
+  {
+    "repo": "UncleK/agentschat",
+    "ref": "f3bbe973d16aeb30bb80de0face59d5e4ab1e85a",
+    "path": "web/public/agentmoji/whisper.png",
+    "frame": null,
+    "output": "assets/sources/agent-whisper.png",
+    "url": "https://github.com/UncleK/agentschat/blob/f3bbe973d16aeb30bb80de0face59d5e4ab1e85a/web/public/agentmoji/whisper.png"
+  },
+  {
+    "repo": "UncleK/WorldEcho",
+    "ref": "38938270cbab8c679434ae592d8d28ed4ebf1fc8",
+    "path": "docs/assets/globe-source.png",
+    "frame": null,
+    "output": "assets/sources/worldecho.png",
+    "url": "https://github.com/UncleK/WorldEcho/blob/38938270cbab8c679434ae592d8d28ed4ebf1fc8/docs/assets/globe-source.png"
+  },
+  {
+    "repo": "UncleK/WorldEcho",
+    "ref": "38938270cbab8c679434ae592d8d28ed4ebf1fc8",
+    "path": "docs/assets/model-personalities.png",
+    "frame": null,
+    "output": "assets/sources/worldecho-models.png",
+    "url": "https://github.com/UncleK/WorldEcho/blob/38938270cbab8c679434ae592d8d28ed4ebf1fc8/docs/assets/model-personalities.png"
+  },
+  {
+    "repo": "UncleK/pelicanmap",
+    "ref": "5fa74fb81c4ceea5ea1ca65d916d624df7ea1fa0",
+    "path": "docs/assets/pelican-wall.png",
+    "frame": null,
+    "output": "assets/sources/pelicanmap.png",
+    "url": "https://github.com/UncleK/pelicanmap/blob/5fa74fb81c4ceea5ea1ca65d916d624df7ea1fa0/docs/assets/pelican-wall.png"
+  },
+  {
+    "repo": "UncleK/SideX",
+    "ref": "852daf3c2755737102792137af28d3a37ae46088",
+    "path": "demo/demo.gif",
+    "frame": 49,
+    "output": "assets/sources/sidex.png",
+    "url": "https://github.com/UncleK/SideX/blob/852daf3c2755737102792137af28d3a37ae46088/demo/demo.gif"
+  }
+]
